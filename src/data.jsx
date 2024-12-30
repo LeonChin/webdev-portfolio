@@ -63,14 +63,14 @@ export const projects = [
     title: "Unsplash Images",
     text: "A image searching web app",
   },
-  // {
-  //   id: nanoid(),
-  //   img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800",
-  //   url: "https://react-projects.netlify.app/",
-  //   github: "https://github.com/john-smilga",
-  //   title: "second project",
-  //   text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
-  // },
+  {
+    id: nanoid(),
+    img: "https://images.pexels.com/photos/2148222/pexels-photo-2148222.jpeg?auto=compress&cs=tinysrgb&w=800",
+    url: "https://react-vite-projects-14-cart.netlify.app/",
+    github: "https://github.com/LeonChin/cart-demo",
+    title: "redux cart demo",
+    text: "A shopping cart demo using redux to manage states.",
+  },
   // {
   //   id: nanoid(),
   //   img: "https://images.pexels.com/photos/12883026/pexels-photo-12883026.jpeg?auto=compress&cs=tinysrgb&w=800",
